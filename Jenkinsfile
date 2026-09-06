@@ -43,5 +43,7 @@ pipeline {
                 echo 'Deploy the application to the production server using AWS EC2.'
             }
         }
+
+        // Updated for CI pipeline test
     }
 }
